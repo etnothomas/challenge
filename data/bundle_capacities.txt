@@ -1,0 +1,324 @@
+For CountrySupplier = Argentina, Region = SouthAmerica, CountryDestination = Mexico, Type = Standard supplier SABIC has a max capacity of 44707
+For CountrySupplier = USA, CountryDestination = Peru supplier SABIC has a max capacity of 25983
+For CountrySupplier = Chile, CountryDestination = Germany supplier Linde has a max capacity of 88812
+For Region = NorthAmerica, CountrySupplier = USA, Type = Standard, CountryDestination = Mexico supplier Mitsubishi has a max capacity of 32799
+For CountryDestination = China, Type = Critical, Region = Asia, CountrySupplier = India supplier Dupont has a max capacity of 88333
+For Region = SouthAmerica, CountrySupplier = Argentina supplier BASF has a max capacity of 33484
+For Type = Standard supplier Linde has a max capacity of 16954
+For CountryDestination = Mexico, Region = Asia supplier Lyondell has a max capacity of 99434
+For Region = Europe, CountrySupplier = Argentina, Type = Critical supplier SABIC has a max capacity of 82619
+For Region = SouthAmerica, CountryDestination = Great Britain supplier BASF has a max capacity of 53795
+For CountryDestination = Spain supplier Mitsubishi has a max capacity of 40477
+For CountryDestination = China, CountrySupplier = Argentina supplier BASF has a max capacity of 12164
+For Region = NorthAmerica, CountrySupplier = USA, CountryDestination = Colombia supplier Linde has a max capacity of 47069
+For Type = Standard, CountrySupplier = USA supplier AirLiquide has a max capacity of 65990
+For Region = Asia, CountryDestination = India supplier Reliance has a max capacity of 1172
+For Region = Europe, CountryDestination = Great Britain supplier Clariant has a max capacity of 12888
+For Type = Standard, CountryDestination = China, CountrySupplier = Argentina supplier SABIC has a max capacity of 20901
+For CountryDestination = India, Region = Asia, CountrySupplier = India supplier Dupont has a max capacity of 58502
+For CountryDestination = Mexico, Type = Critical, CountrySupplier = Argentina supplier SABIC has a max capacity of 10202
+For CountrySupplier = China, CountryDestination = Peru supplier INEOS has a max capacity of 7234
+For CountrySupplier = USA supplier Lyondell has a max capacity of 91108
+For CountryDestination = Mexico, CountrySupplier = Argentina, Type = Critical supplier Mitsubishi has a max capacity of 83342
+For Region = Asia, CountrySupplier = Argentina, Type = Critical, CountryDestination = Brazil supplier SABIC has a max capacity of 56893
+For Type = Critical, CountryDestination = China, CountrySupplier = USA, Region = Asia supplier Dupont has a max capacity of 95663
+For CountrySupplier = Chile supplier AirLiquide has a max capacity of 70433
+For Region = Asia, CountrySupplier = Argentina, Type = Standard, CountryDestination = India supplier Reliance has a max capacity of 20985
+For Type = Standard, CountrySupplier = Argentina, Region = SouthAmerica supplier BASF has a max capacity of 6500
+For CountryDestination = Great Britain, Type = Critical supplier Linde has a max capacity of 75540
+For CountryDestination = Colombia, Region = SouthAmerica, Type = Standard, CountrySupplier = Chile supplier SABIC has a max capacity of 28479
+For Region = NorthAmerica, Type = Critical, CountryDestination = Great Britain, CountrySupplier = China supplier INEOS has a max capacity of 31797
+For Type = Critical, Region = Asia, CountrySupplier = USA, CountryDestination = Brazil supplier SABIC has a max capacity of 47538
+For CountrySupplier = USA, CountryDestination = Great Britain, Type = Critical, Region = Asia supplier BASF has a max capacity of 98740
+For CountrySupplier = China, Region = Asia, Type = Standard, CountryDestination = Spain supplier INEOS has a max capacity of 44542
+For Region = Asia, CountrySupplier = India, Type = Critical supplier INEOS has a max capacity of 35593
+For CountryDestination = Germany, CountrySupplier = Argentina, Type = Critical, Region = SouthAmerica supplier Mitsubishi has a max capacity of 37802
+For Region = Asia, CountrySupplier = USA, CountryDestination = Spain supplier INEOS has a max capacity of 5735
+For Region = SouthAmerica supplier Mitsubishi has a max capacity of 2184
+For CountrySupplier = Argentina, CountryDestination = Colombia supplier BASF has a max capacity of 90301
+For CountryDestination = Spain, CountrySupplier = USA supplier Mitsubishi has a max capacity of 33495
+For CountryDestination = Great Britain, Type = Critical, CountrySupplier = Chile, Region = Europe supplier Linde has a max capacity of 5844
+For Type = Critical supplier SABIC has a max capacity of 43558
+For Region = SouthAmerica, CountrySupplier = Argentina supplier INEOS has a max capacity of 88669
+For Region = Europe, Type = Critical, CountryDestination = Great Britain supplier Mitsubishi has a max capacity of 48006
+For Region = NorthAmerica, Type = Standard supplier INEOS has a max capacity of 71706
+For Type = Standard, CountrySupplier = China, CountryDestination = Mexico supplier INEOS has a max capacity of 33551
+For CountryDestination = Spain, Type = Critical, Region = NorthAmerica, CountrySupplier = Argentina supplier INEOS has a max capacity of 69393
+For CountryDestination = India, Region = SouthAmerica supplier Reliance has a max capacity of 24940
+For CountrySupplier = USA, Region = Europe supplier Mitsubishi has a max capacity of 98991
+For Region = Europe, Type = Critical supplier AirLiquide has a max capacity of 40506
+For Region = Asia, Type = Critical supplier Reliance has a max capacity of 94322
+For Type = Standard, CountrySupplier = USA, CountryDestination = Germany supplier SABIC has a max capacity of 45794
+For Type = Standard supplier BASF has a max capacity of 34977
+For CountryDestination = India supplier Reliance has a max capacity of 65220
+For CountryDestination = India supplier Dupont has a max capacity of 25993
+For Type = Critical, CountryDestination = China, CountrySupplier = USA supplier Reliance has a max capacity of 51578
+For Type = Standard, CountryDestination = Colombia, CountrySupplier = USA supplier BASF has a max capacity of 57297
+For CountryDestination = Colombia, Type = Standard, CountrySupplier = Argentina supplier BASF has a max capacity of 14543
+For CountrySupplier = USA, Type = Critical supplier Dupont has a max capacity of 71546
+For Type = Critical, CountrySupplier = USA supplier Mitsubishi has a max capacity of 60307
+For CountryDestination = India supplier Dupont has a max capacity of 26130
+For Region = SouthAmerica, CountryDestination = Colombia, CountrySupplier = Argentina supplier SABIC has a max capacity of 94905
+For CountryDestination = Mexico supplier Reliance has a max capacity of 77804
+For CountryDestination = Spain, Type = Critical supplier INEOS has a max capacity of 86044
+For CountryDestination = Great Britain, Type = Critical supplier INEOS has a max capacity of 76050
+For Region = Europe supplier AirLiquide has a max capacity of 75884
+For Type = Critical, CountryDestination = Germany supplier SABIC has a max capacity of 400
+For Region = Asia, CountryDestination = Germany, CountrySupplier = Germany supplier Lyondell has a max capacity of 40463
+For CountrySupplier = Argentina, Region = SouthAmerica, Type = Critical supplier Reliance has a max capacity of 50486
+For CountrySupplier = USA, CountryDestination = India supplier BASF has a max capacity of 58707
+For Region = NorthAmerica, CountryDestination = Colombia, Type = Critical supplier Linde has a max capacity of 80865
+For CountryDestination = Great Britain, Region = Europe, Type = Critical, CountrySupplier = USA supplier AirLiquide has a max capacity of 3677
+For Type = Critical supplier Lyondell has a max capacity of 24963
+For CountrySupplier = USA, Region = SouthAmerica, Type = Standard supplier Mitsubishi has a max capacity of 24720
+For CountrySupplier = USA, Type = Critical, Region = Europe supplier AirLiquide has a max capacity of 31318
+For Region = Asia, CountrySupplier = India, CountryDestination = Mexico, Type = Standard supplier Reliance has a max capacity of 86946
+For Type = Critical, CountryDestination = Great Britain, CountrySupplier = India, Region = Asia supplier Dupont has a max capacity of 22423
+For Region = NorthAmerica, CountrySupplier = China, CountryDestination = Canada supplier INEOS has a max capacity of 66911
+For Region = Europe, Type = Critical supplier AirLiquide has a max capacity of 34248
+For Region = NorthAmerica, Type = Standard, CountrySupplier = USA, CountryDestination = Mexico supplier Reliance has a max capacity of 99936
+For CountrySupplier = India, CountryDestination = China supplier Reliance has a max capacity of 44039
+For Region = Europe, CountrySupplier = Chile supplier AirLiquide has a max capacity of 61
+For Type = Critical, Region = NorthAmerica, CountryDestination = USA supplier Reliance has a max capacity of 16817
+For CountryDestination = Germany, Type = Critical supplier Linde has a max capacity of 40740
+For Region = Asia, Type = Standard supplier BASF has a max capacity of 77762
+For CountrySupplier = India, Type = Standard supplier Dupont has a max capacity of 77486
+For CountrySupplier = USA, Type = Standard, CountryDestination = Spain supplier Mitsubishi has a max capacity of 78616
+For CountrySupplier = USA, Type = Critical, Region = Asia, CountryDestination = Great Britain supplier Dupont has a max capacity of 60616
+For CountrySupplier = Chile, Type = Critical, Region = NorthAmerica supplier Linde has a max capacity of 54576
+For Region = Europe supplier AirLiquide has a max capacity of 87415
+For CountryDestination = USA, Region = NorthAmerica supplier Reliance has a max capacity of 44794
+For Type = Standard, CountryDestination = China, Region = Asia supplier Reliance has a max capacity of 99451
+For Type = Standard supplier AirLiquide has a max capacity of 4598
+For Region = Asia, CountrySupplier = Chile, CountryDestination = Mexico, Type = Standard supplier SABIC has a max capacity of 84278
+For CountryDestination = Great Britain, CountrySupplier = Chile, Type = Standard supplier AirLiquide has a max capacity of 66422
+For Type = Standard, Region = Asia, CountrySupplier = USA supplier BASF has a max capacity of 17798
+For Type = Standard, CountryDestination = Germany, Region = SouthAmerica, CountrySupplier = Argentina supplier INEOS has a max capacity of 675
+For Region = SouthAmerica supplier SABIC has a max capacity of 32139
+For CountrySupplier = Argentina, Type = Critical supplier BASF has a max capacity of 63919
+For Region = SouthAmerica, CountrySupplier = USA, CountryDestination = China supplier Lyondell has a max capacity of 61023
+For Type = Critical, CountrySupplier = China, CountryDestination = Canada, Region = NorthAmerica supplier Reliance has a max capacity of 74033
+For CountrySupplier = Argentina supplier BASF has a max capacity of 65017
+For CountrySupplier = Argentina, CountryDestination = Bolivia, Region = SouthAmerica supplier INEOS has a max capacity of 18120
+For Region = Europe, CountrySupplier = Chile supplier SABIC has a max capacity of 16031
+For CountryDestination = Spain, Region = Europe, Type = Standard, CountrySupplier = USA supplier AirLiquide has a max capacity of 97787
+For CountryDestination = Great Britain, CountrySupplier = India, Type = Standard supplier Clariant has a max capacity of 42643
+For Type = Standard, CountryDestination = Sweden, CountrySupplier = Argentina, Region = NorthAmerica supplier Mitsubishi has a max capacity of 56546
+For CountrySupplier = India, Region = NorthAmerica supplier Reliance has a max capacity of 48837
+For Region = SouthAmerica, CountryDestination = Peru supplier Lyondell has a max capacity of 51014
+For CountrySupplier = India, Region = Europe supplier Dupont has a max capacity of 50401
+For Type = Standard, CountryDestination = Switzerland, Region = Europe, CountrySupplier = USA supplier Dupont has a max capacity of 82108
+For Type = Standard, Region = Europe, CountrySupplier = USA, CountryDestination = Great Britain supplier AirLiquide has a max capacity of 77219
+For CountrySupplier = USA, Region = Europe supplier AirLiquide has a max capacity of 68974
+For CountrySupplier = India supplier Linde has a max capacity of 3420
+For Type = Standard, CountryDestination = Sweden, Region = Europe supplier Clariant has a max capacity of 28695
+For Region = SouthAmerica, CountrySupplier = USA, CountryDestination = Peru, Type = Critical supplier SABIC has a max capacity of 9849
+For CountrySupplier = Argentina, Type = Standard, CountryDestination = Germany, Region = Asia supplier Lyondell has a max capacity of 29101
+For Region = Asia, Type = Critical, CountrySupplier = Sweden, CountryDestination = China supplier Clariant has a max capacity of 91075
+For Type = Critical supplier INEOS has a max capacity of 84800
+For Region = SouthAmerica, CountrySupplier = USA supplier BASF has a max capacity of 72193
+For Type = Critical, CountrySupplier = Chile, CountryDestination = Peru supplier SABIC has a max capacity of 47950
+For CountrySupplier = Argentina supplier Mitsubishi has a max capacity of 28707
+For Type = Standard, CountryDestination = Germany, CountrySupplier = Chile supplier AirLiquide has a max capacity of 96780
+For Type = Critical, CountrySupplier = USA supplier Reliance has a max capacity of 29975
+For Region = Asia, CountryDestination = India, Type = Standard supplier Dupont has a max capacity of 7621
+For CountrySupplier = USA, Type = Standard, CountryDestination = Colombia, Region = Europe supplier SABIC has a max capacity of 22438
+For Region = Europe supplier Linde has a max capacity of 82939
+For Type = Critical, CountrySupplier = Chile, CountryDestination = Germany supplier AirLiquide has a max capacity of 89693
+For CountryDestination = Peru, CountrySupplier = USA, Type = Standard supplier INEOS has a max capacity of 34875
+For Region = Europe, CountryDestination = India supplier Dupont has a max capacity of 55402
+For CountryDestination = Sweden, Region = Asia supplier Mitsubishi has a max capacity of 85674
+For CountrySupplier = India, Type = Critical, Region = SouthAmerica, CountryDestination = Bolivia supplier INEOS has a max capacity of 20772
+For Type = Standard, CountryDestination = Mexico, Region = Europe, CountrySupplier = Argentina supplier SABIC has a max capacity of 61993
+For CountryDestination = Great Britain supplier AirLiquide has a max capacity of 5232
+For CountrySupplier = Argentina supplier Mitsubishi has a max capacity of 98296
+For CountryDestination = India, Region = Asia, Type = Critical, CountrySupplier = USA supplier Linde has a max capacity of 80272
+For Type = Standard, CountrySupplier = Argentina, CountryDestination = USA, Region = Asia supplier Reliance has a max capacity of 91164
+For Type = Standard, Region = Asia, CountrySupplier = Argentina, CountryDestination = Bolivia supplier Reliance has a max capacity of 56025
+For CountrySupplier = Argentina supplier BASF has a max capacity of 27297
+For Type = Critical, CountrySupplier = USA, CountryDestination = China, Region = NorthAmerica supplier INEOS has a max capacity of 69057
+For CountryDestination = China, Region = NorthAmerica supplier Reliance has a max capacity of 91885
+For CountrySupplier = Argentina, CountryDestination = Sweden, Region = Europe supplier Lyondell has a max capacity of 55997
+For Region = NorthAmerica, CountrySupplier = USA, CountryDestination = Germany supplier Mitsubishi has a max capacity of 1832
+For Type = Standard, CountryDestination = Canada supplier Linde has a max capacity of 87583
+For CountrySupplier = USA, Type = Critical supplier Linde has a max capacity of 58584
+For CountryDestination = India supplier BASF has a max capacity of 59581
+For Region = Asia, Type = Critical, CountryDestination = Peru supplier INEOS has a max capacity of 33744
+For CountrySupplier = USA, Region = Europe supplier AirLiquide has a max capacity of 496
+For Type = Critical, CountrySupplier = India supplier Dupont has a max capacity of 34178
+For Type = Critical supplier Lyondell has a max capacity of 65552
+For Region = Europe, CountryDestination = China supplier BASF has a max capacity of 48180
+For CountrySupplier = USA, Region = Europe supplier Lyondell has a max capacity of 4942
+For CountryDestination = Great Britain, CountrySupplier = USA, Region = Asia supplier BASF has a max capacity of 92183
+For Region = Europe, CountryDestination = Great Britain, CountrySupplier = USA supplier AirLiquide has a max capacity of 6336
+For Region = Asia, Type = Standard, CountrySupplier = Argentina, CountryDestination = Colombia supplier SABIC has a max capacity of 73950
+For Type = Critical supplier Mitsubishi has a max capacity of 98335
+For Type = Standard, Region = Asia supplier INEOS has a max capacity of 82362
+For Type = Critical, CountryDestination = Brazil, Region = SouthAmerica supplier SABIC has a max capacity of 16777
+For CountrySupplier = Argentina supplier INEOS has a max capacity of 81808
+For Type = Standard, CountryDestination = Canada supplier INEOS has a max capacity of 60500
+For CountryDestination = Spain, Type = Standard, Region = Europe, CountrySupplier = Chile supplier AirLiquide has a max capacity of 28655
+For CountrySupplier = India, Region = Asia supplier Dupont has a max capacity of 17587
+For CountrySupplier = India, Region = Asia, CountryDestination = Colombia supplier Linde has a max capacity of 6161
+For Type = Critical, CountrySupplier = Sweden, Region = Asia, CountryDestination = Germany supplier Clariant has a max capacity of 95263
+For CountryDestination = Great Britain, Region = SouthAmerica, CountrySupplier = Germany, Type = Standard supplier Lyondell has a max capacity of 38240
+For Region = SouthAmerica, CountryDestination = Colombia, CountrySupplier = USA supplier Clariant has a max capacity of 65366
+For Region = Europe supplier Dupont has a max capacity of 43861
+For CountrySupplier = Chile, Type = Standard supplier SABIC has a max capacity of 40054
+For Region = Europe, CountrySupplier = India, CountryDestination = Switzerland, Type = Critical supplier Dupont has a max capacity of 68182
+For CountrySupplier = Brazil, Type = Critical, Region = NorthAmerica supplier Linde has a max capacity of 42807
+For CountryDestination = China supplier BASF has a max capacity of 38049
+For CountrySupplier = USA, Type = Critical, Region = Asia, CountryDestination = Switzerland supplier Dupont has a max capacity of 45403
+For CountrySupplier = India, Region = Europe, Type = Standard, CountryDestination = Great Britain supplier Clariant has a max capacity of 16388
+For CountryDestination = Great Britain, Type = Critical, CountrySupplier = USA, Region = Europe supplier AirLiquide has a max capacity of 93611
+For Region = Asia supplier Mitsubishi has a max capacity of 27775
+For Region = NorthAmerica, CountrySupplier = China, Type = Critical, CountryDestination = Canada supplier INEOS has a max capacity of 97311
+For Type = Standard, Region = SouthAmerica, CountrySupplier = India supplier Clariant has a max capacity of 53388
+For CountrySupplier = Chile, Type = Critical, CountryDestination = Germany supplier AirLiquide has a max capacity of 97646
+For CountryDestination = Great Britain, CountrySupplier = USA supplier Reliance has a max capacity of 41870
+For Type = Critical supplier AirLiquide has a max capacity of 6294
+For CountryDestination = Switzerland, Type = Critical, Region = Asia supplier Lyondell has a max capacity of 75511
+For CountryDestination = Canada, Type = Standard supplier Linde has a max capacity of 9053
+For Region = Europe supplier AirLiquide has a max capacity of 93218
+For CountryDestination = China supplier Mitsubishi has a max capacity of 8100
+For CountrySupplier = Chile supplier AirLiquide has a max capacity of 35709
+For CountrySupplier = Argentina, CountryDestination = China, Type = Standard supplier SABIC has a max capacity of 31390
+For Region = Europe supplier BASF has a max capacity of 83261
+For Region = Asia supplier Reliance has a max capacity of 37357
+For Type = Critical, CountryDestination = Mexico, CountrySupplier = USA, Region = Europe supplier Lyondell has a max capacity of 40264
+For CountrySupplier = China, CountryDestination = Spain, Region = Asia supplier INEOS has a max capacity of 87835
+For CountryDestination = Canada supplier Reliance has a max capacity of 40733
+For Region = Asia, Type = Critical, CountrySupplier = USA supplier Mitsubishi has a max capacity of 10775
+For CountrySupplier = China, Type = Critical, CountryDestination = Mexico supplier Reliance has a max capacity of 10077
+For CountrySupplier = Argentina supplier Mitsubishi has a max capacity of 43465
+For CountrySupplier = USA, CountryDestination = Great Britain supplier Dupont has a max capacity of 17582
+For Region = Asia, Type = Critical, CountrySupplier = Brazil, CountryDestination = Bolivia supplier Linde has a max capacity of 75427
+For Region = Europe, CountryDestination = Spain, CountrySupplier = USA supplier AirLiquide has a max capacity of 23240
+For CountryDestination = Brazil supplier Lyondell has a max capacity of 12277
+For Type = Critical, CountrySupplier = Argentina supplier BASF has a max capacity of 35508
+For CountrySupplier = China supplier INEOS has a max capacity of 61160
+For CountryDestination = Great Britain, Type = Standard, Region = Europe, CountrySupplier = India supplier Linde has a max capacity of 30184
+For Type = Standard, CountryDestination = Peru, Region = NorthAmerica, CountrySupplier = Argentina supplier INEOS has a max capacity of 54870
+For Region = Asia supplier Reliance has a max capacity of 9025
+For CountrySupplier = Argentina supplier Mitsubishi has a max capacity of 38611
+For CountryDestination = Canada, CountrySupplier = Chile, Type = Critical, Region = NorthAmerica supplier Linde has a max capacity of 28540
+For Type = Critical supplier Mitsubishi has a max capacity of 28024
+For CountryDestination = Great Britain, Type = Standard supplier Dupont has a max capacity of 91000
+For Region = Europe, CountrySupplier = Chile, CountryDestination = Germany, Type = Critical supplier AirLiquide has a max capacity of 19276
+For CountrySupplier = India, Type = Standard supplier Dupont has a max capacity of 67615
+For Region = Asia supplier Dupont has a max capacity of 89710
+For Region = Asia supplier Lyondell has a max capacity of 97014
+For Region = SouthAmerica, Type = Critical supplier Clariant has a max capacity of 83066
+For Type = Critical, CountrySupplier = India, Region = Europe supplier Linde has a max capacity of 10870
+For CountryDestination = Colombia, Type = Standard, CountrySupplier = USA, Region = Europe supplier Clariant has a max capacity of 44101
+For CountrySupplier = India, CountryDestination = Mexico, Type = Standard supplier Reliance has a max capacity of 66245
+For CountrySupplier = Argentina, CountryDestination = Peru, Region = SouthAmerica supplier INEOS has a max capacity of 64268
+For Type = Critical, CountryDestination = Spain, Region = Europe supplier Mitsubishi has a max capacity of 16681
+For Type = Critical, CountryDestination = Spain, CountrySupplier = Argentina, Region = Asia supplier INEOS has a max capacity of 24303
+For CountrySupplier = Argentina, CountryDestination = Germany, Type = Critical supplier INEOS has a max capacity of 38164
+For CountryDestination = India, Type = Standard supplier Clariant has a max capacity of 27957
+For CountrySupplier = USA, Region = Europe, Type = Standard supplier Clariant has a max capacity of 99779
+For Region = NorthAmerica, Type = Critical supplier INEOS has a max capacity of 32163
+For CountryDestination = Great Britain, Type = Standard supplier AirLiquide has a max capacity of 29294
+For CountryDestination = Bolivia, CountrySupplier = USA, Type = Critical, Region = Asia supplier Reliance has a max capacity of 32787
+For CountrySupplier = Chile, Type = Critical, CountryDestination = Spain supplier AirLiquide has a max capacity of 90738
+For Type = Standard, CountryDestination = Peru, Region = Asia, CountrySupplier = China supplier INEOS has a max capacity of 97328
+For CountrySupplier = USA, Region = NorthAmerica, Type = Standard supplier Mitsubishi has a max capacity of 77867
+For Type = Critical, CountryDestination = Great Britain supplier AirLiquide has a max capacity of 44065
+For Type = Critical supplier Linde has a max capacity of 76234
+For Type = Standard, CountrySupplier = USA supplier Dupont has a max capacity of 85912
+For CountrySupplier = USA, Region = SouthAmerica, Type = Standard supplier Reliance has a max capacity of 57795
+For CountrySupplier = India, CountryDestination = Mexico, Region = SouthAmerica, Type = Critical supplier INEOS has a max capacity of 23079
+For Region = Asia, Type = Standard, CountrySupplier = USA, CountryDestination = Mexico supplier Clariant has a max capacity of 14400
+For Type = Critical supplier AirLiquide has a max capacity of 42440
+For CountrySupplier = USA supplier Clariant has a max capacity of 28403
+For CountryDestination = India, Region = SouthAmerica supplier Reliance has a max capacity of 61453
+For CountryDestination = Switzerland, Type = Standard supplier Dupont has a max capacity of 63390
+For Region = SouthAmerica, Type = Standard, CountryDestination = Mexico, CountrySupplier = India supplier Clariant has a max capacity of 56444
+For Type = Standard, CountryDestination = Great Britain, CountrySupplier = India supplier Dupont has a max capacity of 25814
+For CountrySupplier = USA, CountryDestination = Bolivia, Type = Critical, Region = Asia supplier Reliance has a max capacity of 45042
+For CountryDestination = China, Region = Asia supplier Dupont has a max capacity of 44940
+For Type = Critical supplier Reliance has a max capacity of 9558
+For CountrySupplier = India, Region = Europe supplier INEOS has a max capacity of 50225
+For Type = Critical, CountrySupplier = Chile, Region = Asia supplier SABIC has a max capacity of 16619
+For CountryDestination = Great Britain supplier BASF has a max capacity of 61752
+For Region = SouthAmerica, CountryDestination = China, Type = Standard supplier INEOS has a max capacity of 16386
+For CountryDestination = Colombia, CountrySupplier = USA supplier BASF has a max capacity of 31278
+For CountryDestination = Switzerland, Type = Standard, CountrySupplier = USA, Region = Asia supplier Dupont has a max capacity of 49733
+For CountrySupplier = USA, Region = Europe, CountryDestination = Mexico supplier Lyondell has a max capacity of 12469
+For CountryDestination = India supplier Dupont has a max capacity of 14100
+For CountryDestination = Great Britain, Region = SouthAmerica supplier Reliance has a max capacity of 64604
+For Type = Critical, CountryDestination = Brazil supplier Mitsubishi has a max capacity of 14993
+For CountryDestination = Great Britain supplier BASF has a max capacity of 17473
+For CountrySupplier = USA, CountryDestination = Germany, Type = Standard supplier Linde has a max capacity of 62970
+For CountryDestination = Switzerland, CountrySupplier = USA, Region = Asia supplier Dupont has a max capacity of 62521
+For CountryDestination = China supplier Mitsubishi has a max capacity of 74131
+For Region = Europe supplier Clariant has a max capacity of 2963
+For CountryDestination = Great Britain supplier INEOS has a max capacity of 43626
+For CountrySupplier = USA, CountryDestination = Bolivia supplier BASF has a max capacity of 36989
+For CountryDestination = China, CountrySupplier = China, Region = Asia supplier Reliance has a max capacity of 9840
+For Region = Europe supplier AirLiquide has a max capacity of 35414
+For Type = Critical, Region = Asia, CountryDestination = Bolivia, CountrySupplier = India supplier Reliance has a max capacity of 46494
+For CountrySupplier = USA supplier AirLiquide has a max capacity of 32215
+For Type = Critical supplier Linde has a max capacity of 57950
+For CountrySupplier = USA, CountryDestination = Germany, Type = Critical supplier Linde has a max capacity of 61197
+For CountrySupplier = USA, CountryDestination = China supplier BASF has a max capacity of 52199
+For Region = Asia, CountryDestination = India, CountrySupplier = USA, Type = Critical supplier Dupont has a max capacity of 78676
+For Type = Standard supplier INEOS has a max capacity of 31800
+For CountryDestination = Mexico supplier INEOS has a max capacity of 33763
+For Type = Critical supplier Reliance has a max capacity of 91466
+For Region = Europe, CountryDestination = Bolivia, Type = Standard supplier BASF has a max capacity of 45551
+For Type = Critical, CountryDestination = Great Britain, Region = Asia supplier BASF has a max capacity of 82606
+For Region = SouthAmerica, CountryDestination = China supplier Mitsubishi has a max capacity of 59482
+For CountryDestination = Great Britain, Region = Europe, Type = Critical supplier AirLiquide has a max capacity of 9241
+For CountryDestination = Peru supplier SABIC has a max capacity of 29527
+For Type = Critical, Region = Asia supplier SABIC has a max capacity of 31472
+For Type = Critical, CountrySupplier = India, CountryDestination = China supplier Dupont has a max capacity of 39841
+For CountrySupplier = China, Region = NorthAmerica supplier Reliance has a max capacity of 69640
+For Region = Asia, CountryDestination = Colombia supplier BASF has a max capacity of 40848
+For Type = Standard, CountrySupplier = India supplier Clariant has a max capacity of 84945
+For Region = Asia, CountryDestination = India supplier Dupont has a max capacity of 82009
+For CountrySupplier = Argentina, CountryDestination = Great Britain, Region = SouthAmerica supplier BASF has a max capacity of 10480
+For Type = Standard, CountryDestination = India supplier Dupont has a max capacity of 79467
+For CountrySupplier = India, CountryDestination = Switzerland supplier Dupont has a max capacity of 7605
+For Type = Standard, Region = Europe supplier BASF has a max capacity of 26171
+For Type = Critical, Region = SouthAmerica, CountryDestination = Mexico supplier Lyondell has a max capacity of 7826
+For Region = Europe, CountryDestination = Bolivia, Type = Critical supplier BASF has a max capacity of 62550
+For Region = Europe supplier Linde has a max capacity of 18044
+For Type = Standard supplier Dupont has a max capacity of 42896
+For Region = SouthAmerica, CountrySupplier = Chile, Type = Critical, CountryDestination = Brazil supplier SABIC has a max capacity of 96792
+For Region = SouthAmerica, Type = Critical, CountryDestination = Mexico, CountrySupplier = Argentina supplier Mitsubishi has a max capacity of 19282
+For Type = Standard, CountryDestination = Mexico supplier Lyondell has a max capacity of 12939
+For CountrySupplier = India, CountryDestination = Peru, Type = Critical supplier INEOS has a max capacity of 69593
+For Type = Standard, CountrySupplier = Argentina supplier BASF has a max capacity of 47952
+For CountrySupplier = China, CountryDestination = Sweden supplier INEOS has a max capacity of 23559
+For Type = Standard, CountrySupplier = Chile, Region = SouthAmerica supplier SABIC has a max capacity of 50727
+For Region = Asia supplier Dupont has a max capacity of 55803
+For Type = Standard, CountryDestination = China, Region = SouthAmerica supplier INEOS has a max capacity of 37201
+For Region = Europe, CountryDestination = Sweden, Type = Standard supplier INEOS has a max capacity of 27858
+For CountrySupplier = Sweden, Type = Critical supplier Clariant has a max capacity of 28032
+For CountryDestination = Sweden, CountrySupplier = Argentina, Region = Asia, Type = Standard supplier Lyondell has a max capacity of 30042
+For CountrySupplier = India, Region = NorthAmerica, Type = Standard, CountryDestination = Canada supplier Reliance has a max capacity of 93239
+For CountrySupplier = USA, CountryDestination = Germany supplier AirLiquide has a max capacity of 25694
+For CountryDestination = India, CountrySupplier = India, Type = Standard, Region = NorthAmerica supplier Reliance has a max capacity of 5169
+For CountryDestination = Brazil, CountrySupplier = USA, Type = Standard supplier Lyondell has a max capacity of 43542
+For CountryDestination = China, Type = Standard, CountrySupplier = Sweden, Region = Asia supplier Clariant has a max capacity of 70277
+For Type = Critical supplier Linde has a max capacity of 79771
+For CountryDestination = China, Region = Europe supplier SABIC has a max capacity of 36257
+For CountrySupplier = USA, Region = SouthAmerica, Type = Critical, CountryDestination = Sweden supplier Clariant has a max capacity of 83689
+For CountryDestination = India, Type = Critical supplier Dupont has a max capacity of 19087
+For Type = Standard supplier Dupont has a max capacity of 69328
+For Type = Critical, CountryDestination = Bolivia supplier Reliance has a max capacity of 10902
+For Region = SouthAmerica, Type = Critical, CountryDestination = Colombia supplier SABIC has a max capacity of 29600
+For CountryDestination = China, CountrySupplier = India supplier Clariant has a max capacity of 87003
+For Type = Critical, Region = Asia, CountrySupplier = Argentina, CountryDestination = Bolivia supplier BASF has a max capacity of 73456
+For CountrySupplier = USA supplier Dupont has a max capacity of 59953
+For Region = Asia supplier BASF has a max capacity of 31967
+For CountryDestination = Germany, CountrySupplier = USA, Region = Asia, Type = Critical supplier Mitsubishi has a max capacity of 44477
+For CountryDestination = Great Britain, Region = Europe, CountrySupplier = USA supplier Mitsubishi has a max capacity of 35518
+For CountrySupplier = Argentina, Type = Critical, Region = SouthAmerica, CountryDestination = India supplier BASF has a max capacity of 19065
+For CountrySupplier = USA, CountryDestination = India supplier Linde has a max capacity of 9999
+For Type = Critical, CountrySupplier = USA, CountryDestination = Mexico supplier Mitsubishi has a max capacity of 11199
+For Region = SouthAmerica, CountrySupplier = Argentina, Type = Critical supplier Lyondell has a max capacity of 70309
+For CountryDestination = Mexico, Region = SouthAmerica, Type = Critical, CountrySupplier = China supplier INEOS has a max capacity of 51515
+For CountryDestination = India, Type = Critical, CountrySupplier = USA supplier Dupont has a max capacity of 44778
