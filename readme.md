@@ -1,5 +1,5 @@
 # Run the Project
-In the /challenge/src/app folder run the app.py file. This will start a single threaded flask application, with a sqlite3 backend.
+In the /challenge/src/app folder run the app.py file. This will start a flask application, with a sqlite3 backend.
 
 Packages used (also in the requirements file):
 - sqlalchemy
@@ -130,4 +130,4 @@ This takes an item id as a query parameter. Returns a list of jsons with the sam
 - api names... pretty verbose...
 - money modelling should be Decimal, but sqlite does not support that apparently...
 - tail recursion
-- 
+- Need to add type hints
