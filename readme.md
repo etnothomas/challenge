@@ -65,8 +65,8 @@ This takes a project id as a query parameter, and return a list of jsons with th
           "region": "europe", 
           "country_supplier": "india",
           "country_destination": "great", 
-          "global_cap": "3500000.0000000000", 
-          "regional_cap": "16388.0000000000"}
+          "global_cap": "3500000", 
+          "regional_cap": "16388"}
       ]
     }
   }
@@ -88,8 +88,8 @@ This does not take any query parameter. Returns a list of jsons like below, inde
           "region": "europe", 
           "country_supplier": "india", 
           "country_destination": "great", 
-          "global_cap": "3500000.0000000000", 
-          "regional_cap": "16388.0000000000", 
+          "global_cap": "3500000", 
+          "regional_cap": "16388", 
           "item": "Item_0001"}
       ]
     }
@@ -114,8 +114,8 @@ This takes an item id as a query parameter. Returns a list of jsons with the sam
           "region": "europe", 
           "country_supplier": "india", 
           "country_destination": "great", 
-          "global_cap": "3500000.0000000000", 
-          "regional_cap": "16388.0000000000", 
+          "global_cap": "3500000", 
+          "regional_cap": "16388", 
           "unit_price": "187.2700000000"}
       ]
     }
