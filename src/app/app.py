@@ -1,6 +1,6 @@
 from flask import Flask
 from src.app.views import AddGlobalCapacity, AddItemCapacity, AddRegionalCapacity, GetRegionalAndGlobalCapacitiesWithOffers, GetOfferCapacities, GetProjectRegionalAndGlobalCaps
-from src.dal.DataAccessLayer import DataAccessLayer
+from src.Dal.DataAccessLayer import DataAccessLayer
 from src.DataTables.Tables import Base
 from src.Parser.Populate import Populate
 from pathlib import Path

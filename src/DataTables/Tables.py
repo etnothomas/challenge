@@ -10,7 +10,7 @@ class GlobalCapacities(Base):
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     supplier = Column(String)
-    capacity = Column(Numeric)
+    capacity = Column(Integer)
 
 
 class RegionalCapacities(Base):
@@ -23,7 +23,7 @@ class RegionalCapacities(Base):
     country_destination = Column(String)
     type = Column(String)
     supplier = Column(String)
-    capacity = Column(Numeric)
+    capacity = Column(Integer)
 
 
 class Offers(Base):
@@ -34,7 +34,7 @@ class Offers(Base):
     supplier = Column(String, primary_key=True)
     unit_price = Column(Numeric)
     project_id = Column(String, nullable=False, primary_key=True)
-    capacity = Column(String, nullable=True)
+    capacity = Column(Integer, nullable=True)
 
 
 

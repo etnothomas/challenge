@@ -54,19 +54,22 @@ Create or update an offer. If an object already exists with the same item, suppl
 
 http://localhost:5050/archlet/v1/getregionalandglobalcapacitieswithoffers?project_id=<some-id>
 
-This takes a project id as a query parameter, and return a list of jsons like this:
+This takes a project id as a query parameter, and return a list of jsons with the same project id, like below, indexed by supplier and region
 
 ```json
 {
-  "supplier": "clariant", 
-  "region": "europe", 
-  "country_supplier": "india",
-  "country_destination": "great", 
-  "global_cap": "3500000.0000000000", 
-  "regional_cap": "16388.0000000000", 
-  "item": "Item_0001", 
-  "item_cap": null, 
-  "unit_price": "187.2700000000"
+  "33aad28d-59f5-4b9f-bee8-ebe1a2389570": {
+    "clariant": {
+      "europe": [
+        {"supplier": "clariant", 
+          "region": "europe", 
+          "country_supplier": "india",
+          "country_destination": "great", 
+          "global_cap": "3500000.0000000000", 
+          "regional_cap": "16388.0000000000"}
+      ]
+    }
+  }
 }
 ```
 
@@ -74,17 +77,23 @@ This takes a project id as a query parameter, and return a list of jsons like th
 
 http://localhost:5050/archlet/v1/getprojectregionalandglobalcaps
 
-This does not take any query parameter. Returns a list of jsons like this:
+This does not take any query parameter. Returns a list of jsons like below, indexed by item, supplier and region:
 
 ```json
 {
-  "supplier": "clariant", 
-  "item_cap": null, 
-  "region": "europe", 
-  "country_supplier": "india", 
-  "country_destination": "great", 
-  "global_cap": "3500000.0000000000", 
-  "regional_cap": "16388.0000000000"
+  "clariant": {
+    "europe": {
+      "Item_0001": [
+        {"supplier": "clariant", 
+          "region": "europe", 
+          "country_supplier": "india", 
+          "country_destination": "great", 
+          "global_cap": "3500000.0000000000", 
+          "regional_cap": "16388.0000000000", 
+          "item": "Item_0001"}
+      ]
+    }
+  }
 }
 ```
 
@@ -92,18 +101,30 @@ This does not take any query parameter. Returns a list of jsons like this:
 
 http://localhost:5050/archlet/v1/archlet/v1/getoffercapacities?item_id=<some-id>
 
-This takes an item id as a query parameter. Returns a list of jsons with the same item id, like this
+This takes an item id as a query parameter. Returns a list of jsons with the same item id, like below, indexed by item,supplier, region
 
 ```json
 {
-  "item": "Item_0001", 
-  "supplier": "clariant", 
-  "item_cap": null, 
-  "region": "europe", 
-  "country_supplier": "india",
-  "country_destination": "great", 
-  "global_cap": "3500000.0000000000", 
-  "regional_cap": "16388.0000000000", 
-  "unit_price": "187.2700000000"
+  "Item_0001": {
+    "clariant": {
+      "europe": [
+        {"item": "Item_0001", 
+          "supplier": "clariant", 
+          "item_cap": null, 
+          "region": "europe", 
+          "country_supplier": "india", 
+          "country_destination": "great", 
+          "global_cap": "3500000.0000000000", 
+          "regional_cap": "16388.0000000000", 
+          "unit_price": "187.2700000000"}
+      ]
+    }
+  }
 }
 ```
+
+## Issues
+- global capacity is reported on every item at the lowest granularity, could be a seperate key
+- some verbose code when getting data from the database, that repeats, could be refactored
+- instead of relying on the itertools library to group items, this could be pushed to the database with some better modelling
+- api names... pretty verbose...
