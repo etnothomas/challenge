@@ -26,6 +26,7 @@ class DataAccessLayer(object):
             raise e
         finally:
             session.close()
+            self.session.remove()
             print("session closed")
 
     def insert(self, data):
