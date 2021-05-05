@@ -124,10 +124,12 @@ This takes an item id as a query parameter. Returns a list of jsons with the sam
 ```
 
 ## Issues
-- global capacity is reported on every item at the lowest granularity, could be a separate key
-- some verbose code when getting data from the database, that repeats, could be refactored
-- instead of relying on the itertools library to group items, this could be pushed to the database with some better modelling
-- api names... pretty verbose...
-- money modelling should be Decimal, but sqlite does not support that apparently...
-- tail recursion
-- Need to add type hints
+1. global capacity is reported on every item at the lowest granularity, could be a separate key
+2.  some verbose code when getting data from the database, that repeats, could be refactored
+3.  instead of relying on the itertools library to group items, this could be pushed to the database with some better modelling
+4.  api names... pretty verbose...
+5.  money modelling should be Decimal, but sqlite does not support that apparently...
+6.  tail recursion
+7.  should add type hints
+8.  swagger would be nice
+9.  better relationship between tables, to remove boileplate code in the database retrieval (see 2)
