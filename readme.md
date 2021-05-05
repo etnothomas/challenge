@@ -124,7 +124,7 @@ This takes an item id as a query parameter. Returns a list of jsons with the sam
 ```
 
 ## Issues
-- global capacity is reported on every item at the lowest granularity, could be a seperate key
+- global capacity is reported on every item at the lowest granularity, could be a separate key
 - some verbose code when getting data from the database, that repeats, could be refactored
 - instead of relying on the itertools library to group items, this could be pushed to the database with some better modelling
 - api names... pretty verbose...

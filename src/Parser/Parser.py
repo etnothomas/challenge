@@ -1,6 +1,7 @@
 from numpy import genfromtxt
 from src.DataTables.Tables import Offers, GlobalCapacities, RegionalCapacities
 import re
+from src.Logging.Logging import Logger
 
 
 class Parser:
@@ -11,6 +12,7 @@ class Parser:
         self.func = func
         self.skip_header = skip_header
         self.parser = self.get_parser()
+        self.logger = Logger.get_logger("Parser")
 
     def get_parser(self):
         if self.model_name == 'offers':

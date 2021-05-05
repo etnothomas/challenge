@@ -1,6 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, scoped_session
 from contextlib import contextmanager
+from src.Logging.Logging import Logger
 
 
 class DataAccessLayer(object):
@@ -9,6 +10,7 @@ class DataAccessLayer(object):
         self.base = base
         self.engine = None
         self.session = None
+        self.logger = Logger.get_logger("DataAccessLayer")
 
     def connect(self, url):
         self.engine = create_engine(url)
@@ -18,16 +20,17 @@ class DataAccessLayer(object):
     def transaction(self):
         session = self.session()
         try:
+            self.logger.info("session started")
             yield session
             session.commit()
         except Exception as e:
-            print(e)
+            self.logger.error(e)
             session.rollback()
             raise e
         finally:
             session.close()
             self.session.remove()
-            print("session closed")
+            self.logger.info("session closed")
 
     def insert(self, data):
         for datum in data:
@@ -35,7 +38,7 @@ class DataAccessLayer(object):
                 with self.transaction() as session:
                     session.merge(datum)
             except Exception as e:
-                print(e)
+                self.logger.error(e)
                 continue
 
     def bulk_insert(self, data):
